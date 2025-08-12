@@ -63,3 +63,10 @@ Ordem de prioridade das operações ( 0 > 1 >  2 > 3)
 ^ = 1 
 '*' / \ % = 2
 "+" "-" = 3
+
+Para colocar número ao quadrado é:
+
+    num = 10
+    quadrado = 10**2
+
+O **2 eleva o número ao quadrado
