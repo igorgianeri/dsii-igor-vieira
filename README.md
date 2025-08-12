@@ -1,2 +1,2 @@
 # ssi-igor-vieira
-Aula de Segurança de Sistemas de Internet (Python) com o professor Roberto Itai
+Aula de Desenvolvimento de Sistemas 2 (Python) com o professor Roberto Itai
